@@ -16,3 +16,4 @@ const toDoSlice = createSlice({
 export const { add, delete: deleteTodo } = toDoSlice.actions;
 
 export default toDoSlice.reducer;
+// slice component
